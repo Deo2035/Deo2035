@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Deo2035
 - 👀 I’m interested in Education.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ：892854131@qq.com
 
 <!---
